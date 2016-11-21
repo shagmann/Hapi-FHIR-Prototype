@@ -1,1 +1,3 @@
 # Hapi-FHIR-Prototype
+
+We want to create a new Hapi-FHIR-prototype for the hospital magallanes...
